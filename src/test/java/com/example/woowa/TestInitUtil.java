@@ -54,7 +54,8 @@ public class TestInitUtil {
 
     public static Voucher initVoucher() {
         return new Voucher(VoucherType.PERCENT, EventType.MONTH, 2,
-            LocalDateTime.now().plusDays(1));
+            LocalDateTime.now().plusMonths(1));
+
     }
 
     public static Restaurant initRestaurant() {
