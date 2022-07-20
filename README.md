@@ -51,3 +51,7 @@
 ### 4. [REST API 문서](https://prgrms-be-devcourse.github.io/BE-02-Woowa/)
 
 ### 5. [프로젝트 회고록](https://deluxe-mahogany-9ff.notion.site/daf8f5966ba44cf88758e5cb544ea182)
+
+### 6. 개인 리펙토링 진행
+
+- Spring Security 
